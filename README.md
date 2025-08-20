@@ -1,2 +1,3 @@
 # CSE370_Project
-This 
+This is my first Git Repository
+Author - Kazi Salman
